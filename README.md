@@ -2,6 +2,8 @@
 
 Analyse application logs in the browser: paste or upload a file, see counts by severity, spot spikes on a stacked timeline, zoom into a time window, filter by severity, source, text or regex, and read repeated errors grouped together.
 
+**Live demo:** [https://kavishtolani.github.io/loglens/](https://kavishtolani.github.io/loglens/) — runs entirely in your browser; demo data is fictional and labelled.
+
 ![Analyze view zoomed into an incident](docs/analyze.png)
 
 | Landing | Mobile |
@@ -45,3 +47,7 @@ See the in-app **Supported formats** page: ISO-timestamped text, JSON lines (com
 ## Future improvements
 
 - Web Worker parsing with streaming for larger files; user-defined line formats; export filtered lines.
+
+## Licence
+
+MIT — see [LICENSE](LICENSE).
