@@ -1,5 +1,17 @@
 # LogLens
 
+<!-- screenshots:start -->
+<p align="center">
+  <img src="docs/screenshots/desktop.png" alt="LogLens on a Mac (1440×900)" width="100%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/tablet.png" alt="LogLens on a tablet" height="460">
+  &nbsp;&nbsp;
+  <img src="docs/screenshots/phone.png" alt="LogLens on a phone" height="460">
+</p>
+<p align="center"><sub>Mac (1440×900) · Tablet (820×1180) · Phone (390×844)</sub></p>
+<!-- screenshots:end -->
+
 Analyse application logs in the browser: paste or upload a file, see counts by severity, spot spikes on a stacked timeline, zoom into a time window, filter by severity, source, text or regex, and read repeated errors grouped together.
 
 **Live demo:** [https://kavishtolani.github.io/loglens/](https://kavishtolani.github.io/loglens/) — runs entirely in your browser; demo data is fictional and labelled.
